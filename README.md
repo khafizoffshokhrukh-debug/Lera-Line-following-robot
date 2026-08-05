@@ -27,12 +27,7 @@ Output = Kp * error + Kd * (error - previous_error)
 ## Applications
 - Line follower competitions  
 - Robotics and control system learning  
-- PD controller tuning experiments  
-
-## Project Structure
-- `/src` — source code  
-- `/docs` — documentation  
-- `/hardware` — sensors and wiring  
+- PD controller tuning experiments   
 
 ## Status
 Project is under development.

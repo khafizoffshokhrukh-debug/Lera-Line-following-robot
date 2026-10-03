@@ -6,7 +6,7 @@
 
 <br>
 
-**🥇 11× 1st Place &nbsp; | &nbsp; 🥈 12× 2nd Place**
+**🥇 14× 1st Place &nbsp; | &nbsp; 🥈 12× 2nd Place**
 
 </p>
 
@@ -18,7 +18,7 @@
 
 We competed with **two robots across 12 regions** and achieved:
 
-- 🥇 **11× 1st Place**
+- 🥇 **14× 1st Place**
 - 🥈 **12× 2nd Place**
 
 The robot combines a **custom-built 6-sensor line detection system**, **ESP32-WROOM**, **TB6612FNG motor driver** and a **PID control algorithm**.
@@ -35,7 +35,7 @@ Across **12 regional competitions**, our two robots achieved:
 
 | Result | Number |
 |---|---:|
-| 🥇 **1st Place** | **11** |
+| 🥇 **1st Place** | **14** |
 | 🥈 **2nd Place** | **12** |
 | 🏅 **Total Podium Finishes** | **23** |
 
@@ -46,7 +46,7 @@ These results came from repeated development, testing, tuning and competition ex
 # ✨ Project Highlights
 
 - 🤖 **13th prototype** of our line-following robot
-- 🥇 **11× 1st Place**
+- 🥇 **41× 1st Place**
 - 🥈 **12× 2nd Place**
 - 🗺️ Competed across **12 regions**
 - 🤖 Used **2 robots** in regional competitions
@@ -552,7 +552,7 @@ This made the robot much easier to configure and tune during development and com
 | 🔢 Prototype | **13th Prototype** |
 | 🗺️ Regions | **12** |
 | 🤖 Competition Robots | **2** |
-| 🥇 1st Place | **11×** |
+| 🥇 1st Place | **14×** |
 | 🥈 2nd Place | **12×** |
 | 👁️ Sensors | **6 Custom Sensors** |
 | 🧠 Microcontroller | **ESP32-WROOM** |

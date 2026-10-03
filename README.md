@@ -417,31 +417,23 @@ Lera was used in regional line-following competitions across Uzbekistan.
 
 We participated in **12 regions with two robots** and achieved:
 
-### 🥇 11× First Place
+### 🥇 14× First Place
+<img width="960" height="1280" alt="photo_2026-06-10_20-59-04" src="https://github.com/user-attachments/assets/32ba3b34-82cc-448d-9bb9-6b964dcf660b" />
 
-![1st Place](Results/1st-place/1st-place-01.jpg)
 
-![1st Place](Results/1st-place/1st-place-02.jpg)
-
-![1st Place](Results/1st-place/1st-place-03.jpg)
 
 ### 🥈 12× Second Place
 
-![2nd Place](Results/2nd-place/2nd-place-01.jpg)
-
-![2nd Place](Results/2nd-place/2nd-place-02.jpg)
+<img width="1920" height="2560" alt="photo_2026-07-18_19-14-20" src="https://github.com/user-attachments/assets/6b324b4c-d3e7-4576-ade8-36d4333bb452" />
 
 ---
 
 # 📸 Competition Gallery
 
-![Competition](Competition/competition-01.jpg)
+<img width="1280" height="960" alt="photo_2026-07-13_19-54-44" src="https://github.com/user-attachments/assets/ded8f85c-7107-438a-a5f5-2cc2c87f76ff" />
+<img width="1280" height="720" alt="photo_2026-10-03_10-44-51" src="https://github.com/user-attachments/assets/c3869ef1-f35f-44f1-996b-a4f49f728a85" />
+<img width="1280" height="719" alt="photo_2026-10-03_10-44-46" src="https://github.com/user-attachments/assets/1f6332b3-6f54-44a9-8dc2-4f614477ce2d" />
 
-![Competition](Competition/competition-02.jpg)
-
-![Competition](Competition/competition-03.jpg)
-
-![Competition](Competition/awards.jpg)
 
 ---
 
@@ -451,17 +443,12 @@ The project also includes short videos from testing sessions and competitions.
 
 ### Testing Video 01
 
-[▶️ Watch Video](Videos/videos.md)
-
-### Testing Video 02
-
-[▶️ Watch Video](Videos/videos.md)
+[▶️ Watch Video]((https://www.youtube.com/watch?v=BXI1YcyJU3o))
 
 ### Competition Highlights
 
-[▶️ Watch Competition Video](Videos/videos.md)
+[▶️ Watch Video](https://www.youtube.com/shorts/5Y-Mw3sAbBQ)
 
----
 
 # 💻 Firmware
 
@@ -478,7 +465,7 @@ The robot firmware includes the main control logic for:
 Source code:
 
 ```text
-Firmware/
+Firmware/ akbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaarni  kodi
 └── src/
 ```
 
@@ -490,7 +477,7 @@ The web interface is documented separately in:
 
 ```text
 WebInterface/
-└── README.md
+└── README.mdbuyoqam akbarni ishiiiiiiiiiiiiiiiiiiiiiiiiiiii
 ```
 
 The interface is designed around the practical needs of competition tuning.
@@ -586,7 +573,7 @@ By combining a **custom six-sensor array**, **ESP32-WROOM**, **TB6612FNG**, **PI
 
 Across **12 regional competitions**, two robots achieved:
 
-**🥇 11× 1st Place**
+**🥇 14× 1st Place**
 
 **🥈 12× 2nd Place**
 

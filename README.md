@@ -443,7 +443,7 @@ The project also includes short videos from testing sessions and competitions.
 
 ### Testing Video 01
 
-[▶️ Watch Video]((https://www.youtube.com/watch?v=BXI1YcyJU3o))
+[▶️ Watch Video](https://www.youtube.com/watch?v=BXI1YcyJU3o)
 
 ### Competition Highlights
 

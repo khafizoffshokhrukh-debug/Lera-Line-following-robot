@@ -1,6 +1,6 @@
 # Lera — Line Following Robot
 
-<p align="center">
+
 
 **13th Prototype • ESP32-WROOM • Custom 6-Sensor Array • PID Control • Wi-Fi Web Interface**
 

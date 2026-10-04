@@ -37,7 +37,7 @@ Across **12 regional competitions**, our two robots achieved:
 |---|---:|
 | 🥇 **1st Place** | **14** |
 | 🥈 **2nd Place** | **12** |
-| 🏅 **Total Podium Finishes** | **23** |
+| 🏅 **Total Podium Finishes** | **26** |
 
 These results came from repeated development, testing, tuning and competition experience with the Lera line-following platform.
 
